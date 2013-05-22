@@ -76,7 +76,7 @@ void main_window::nextStep(void)
 
 void main_window::Start()
 {
-    timer->start(20);
+    timer->start(1);
 }
 
 void main_window::Stop()
